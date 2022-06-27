@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Aryan
+- 👀 I’m interested in ANIME
+- 🌱 I’m currently learning JAVA
+- 💞️ I’m looking to collaborate on OPEN SOURCE 
+- 📫 How to reach aryan@ucskmcoders.tech
